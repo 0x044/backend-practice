@@ -1,0 +1,5 @@
+{
+    "exec": "bun run index.ts",
+    "ext": "ts,js",
+    "ignore": ["node_modules"]
+}
